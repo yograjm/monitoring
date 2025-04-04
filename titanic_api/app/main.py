@@ -44,7 +44,7 @@ db_params = {
     'dbname': 'storedb',
     'user': 'postgres',
     'password': 'mypassword',
-    'host': '13.200.222.209',  # EC2 public IP # or your database host
+    'host': 'add-public-IP-here',  # EC2 public IP # or your database host
     'port': '5432'  #'5432'        # default PostgreSQL port
 }
 # Connect to the PostgreSQL database
